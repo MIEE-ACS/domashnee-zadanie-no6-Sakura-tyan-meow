@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz6", "dz6\dz6.csproj", "{575B22AF-1218-4D3B-9EF0-3D4C41709A1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bilet", "..\..\..\..\..\source\repos\bilet 16\bilet\bilet.csproj", "{E6C8C41C-D7EB-495B-9FC0-1E2557C4942E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575B22AF-1218-4D3B-9EF0-3D4C41709A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575B22AF-1218-4D3B-9EF0-3D4C41709A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575B22AF-1218-4D3B-9EF0-3D4C41709A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575B22AF-1218-4D3B-9EF0-3D4C41709A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C8C41C-D7EB-495B-9FC0-1E2557C4942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C8C41C-D7EB-495B-9FC0-1E2557C4942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C8C41C-D7EB-495B-9FC0-1E2557C4942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C8C41C-D7EB-495B-9FC0-1E2557C4942E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BB5629B-4492-4BCA-94FD-32BCF7AE7502}
+	EndGlobalSection
+EndGlobal

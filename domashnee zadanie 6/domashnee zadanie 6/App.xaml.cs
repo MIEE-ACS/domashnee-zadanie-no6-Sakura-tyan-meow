@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace dz6
+namespace domashnee_zadanie_6
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace dz6
+namespace domashnee_zadanie_6
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
